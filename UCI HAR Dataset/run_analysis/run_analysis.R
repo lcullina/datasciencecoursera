@@ -1,7 +1,5 @@
-run_analysis2 <- function(){
-        
-        #Set working directory
-        setwd("C:/Users/Luke/Coursera/UCI HAR Dataset")
+run_analysis <- function(){
+
         
         #Read test data
         subject_test <- read.table("subject_test.txt")
