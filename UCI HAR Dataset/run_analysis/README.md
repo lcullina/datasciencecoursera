@@ -20,7 +20,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 2.
 
-Unzip the files and move all raw data into your working directory.
+Unzip the files and copy all raw data files into your working directory.
 
 
 3.
@@ -28,5 +28,5 @@ Unzip the files and move all raw data into your working directory.
 Run the R script "run_analysis.R", which will print the summary output.
 
 
-The output contains 180 rows (30 volunteers x 6 activities), and 563 columns (561 features of averaged time and frequency domain variables, a subject variable from 1-30, and an activity variable). 
+The output contains 180 rows (30 volunteers x 6 activities), and 88 columns (86 features of averaged time and frequency domain variables, a subject variable from 1-30, and an activity variable). 
  
