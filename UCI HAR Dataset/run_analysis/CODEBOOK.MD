@@ -53,3 +53,6 @@ Variable list:
 "activity" identifies which of the 6 activities was being recorded.
 Variables 3-88 are time/frequency domain measurements taken from the accelerometer/gyroscope. 
 Each of the variables 3-88 is the mean measurement for all the raw data measurements of that particular subject/activity combination for that variable.
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
+Acceleration signal from the accelerometer is measured in standard units 'g'.
+Angular velocity is measured by the gyroscope in 'radians/second'.
