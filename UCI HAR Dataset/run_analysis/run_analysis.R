@@ -51,5 +51,7 @@ run_analysis <- function(){
         
         by_subject_and_activity <- group_by(all_data2, subject, activity)
         data_summary <- summarise_each(by_subject_and_activity, funs(mean))
+        print(data_summary)
+        
         
         }
